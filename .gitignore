@@ -1,0 +1,5 @@
+plugged/
+lazy-lock.json
+pluggin/packer_compiled.lua
+.DS_Store
+*.log
